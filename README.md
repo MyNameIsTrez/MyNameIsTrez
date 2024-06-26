@@ -1,4 +1,20 @@
-## Hi there 👋
+## Greetings! 👋
+
+I'm a passionate backend programmer with over 10 years of experience working on open-source projects in his spare time. Nothing's more valuable than having a deep understanding of the tools at your disposal, which is why I'm currently writing a compiler and linker for [my own programming language](https://mynameistrez.github.io/2024/02/29/creating-the-perfect-modding-language.html).
+
+✍️ [My blog](https://mynameistrez.github.io/)
+
+📝 [My CV](https://drive.google.com/file/d/1yr-JQQd-V8FJvjkQofjxi80AesFVTv1Y/view?usp=sharing)
+
+🐤 [My Twitter](https://twitter.com/welfje)
+
+🐘 [Mastodon](https://mastodon.gamedev.place/@mynameistrez)
+
+▶️ [YouTube](https://www.youtube.com/channel/UCeyD5_J0d6Weq5V80oxwA6Q)
+
+💬 My Discord username is `mynameistrez`
+
+📧 My email is `welfje@<google mail>.com`
 
 <!--
 **MyNameIsTrez/MyNameIsTrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
