@@ -6,7 +6,7 @@ I'm a passionate backend programmer with over 10 years of experience working on 
 
 ✍️ [Blog](https://mynameistrez.github.io/)
 
-📝 [CV](https://drive.google.com/file/d/1cFlNz1GFnWnShj1cCJpnmz5kjGSaamzM/view?usp=sharing)
+📝 [CV](https://drive.google.com/file/d/1cXDXxjvHxHwaI1fSJEojKVZOb99gxdwx/view?usp=sharing)
 
 🐦 [Twitter](https://twitter.com/welfje)
 
