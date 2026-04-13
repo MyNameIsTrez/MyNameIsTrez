@@ -2,7 +2,7 @@
 
 I'm a passionate backend programmer with over 7 years of experience working on open-source projects in my spare time.
 
-Nothing's more valuable than having a deep understanding of the tools at your disposal, which is why I wrote a compiler and linker for [my own programming language](https://mynameistrez.github.io/2024/02/29/creating-the-perfect-modding-language.html).
+Nothing's more valuable than having a deep understanding of the tools at your disposal, which is why I wrote a compiler and linker from scratch for [my own programming language](https://mynameistrez.github.io/2024/02/29/creating-the-perfect-modding-language.html).
 
 💼 [LinkedIn](https://www.linkedin.com/in/sander-bos-73a863320/)
 
